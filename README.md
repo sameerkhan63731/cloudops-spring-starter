@@ -44,4 +44,4 @@ OpenTelemetry tracing, structured JSON logs, Resilience4j defaults, Helm packagi
 
 ## Author
 
-[Sameer Khan Pathan](https://github.com/sameerkhan63731) · [LinkedIn](https://www.linkedin.com/in/sameer-khan-a2525041a)
+[Sameer Khan Pathan](https://github.com/sameerkhan63731) · [sameerwork.online](https://sameerwork.online)
